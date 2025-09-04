@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm am currently learning
+I'm am currently learning<br>📫 Reach out to me at [naveenkattimani326@gmail.com](mailto:naveenkattimani326@gmail.com)
 
 
 ## 🌐 Socials:
