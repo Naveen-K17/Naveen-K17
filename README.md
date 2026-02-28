@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I'm currently learning ...<br>- 📫 Reach out to me at [naveenkattimani326@gmail.com](mailto:naveenkattimani326@gmail.com)<br>- 🔗 Connect with me on [GitHub](https://github.com/Naveen-K17)<br>- 🔗 connect with me on [linkedin](https://www.linkedin.com/in/naveen-kattimani-a392a9256/) <br>
-📄 My Resume: [Download Resume](https://raw.githubusercontent.com/Naveen-K17/Naveen-K17/main/Naveen_k_resume.pdf)
+-🌱 I'm currently learning ...<br>- 📫 Reach out to me at [naveenkattimani326@gmail.com](mailto:naveenkattimani326@gmail.com)<br>- 🔗 Connect with me on [GitHub](https://github.com/Naveen-K17)<br>- 🔗 connect with me on [linkedin](https://www.linkedin.com/in/naveen-kattimani-a392a9256/) <br>
+-📄 My Resume: [Download Resume](https://raw.githubusercontent.com/Naveen-K17/Naveen-K17/main/Naveen_k_resume.pdf)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___naveen_17___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-kattimani-a392a9256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NaveenKatt78612) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkattimani326@gmail.com) 
 
